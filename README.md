@@ -8,3 +8,7 @@ Uses AutoHotkey V1
 
 **Win + Middle Click: Mute/Unmute**
 
+Tip: Put in startup folder!
+Win + R
+shell:startup
+Add the file there!
