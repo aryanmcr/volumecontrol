@@ -14,6 +14,8 @@ Uses AutoHotkey V1
 
 Win + R
 
-shell:startup
+```shell:startup```
 
 Add the file there!
+
+feel free to do whatever u want w the file
